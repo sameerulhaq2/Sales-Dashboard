@@ -36,7 +36,7 @@ To address these challenges, I:
 
 <h2> 🔧 Technologies & Skills Used </h2>
 
-- Tools: Power BI, Oracle EBS
+- Tools: Power BI, Oracle EBS, Sharepoint
 - Technologies: Data Visualization, KPI Design, Business Intelligence
 - Skills: Reporting, Workflow Automation, Data Modeling
 
